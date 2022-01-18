@@ -91,7 +91,7 @@ section {
     border-radius: 6px;
 }
 
-.row :after {
+.row:after {
     display: table;
     content: "";
     clear: both;
@@ -103,7 +103,7 @@ section {
     float: left;
 }
 
-col-80 {
+.col-80 {
     width: 80%;
     margin-top: 6px;
     float: left;
